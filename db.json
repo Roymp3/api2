@@ -1,8 +1,8 @@
 {
-  "users": [
-    { "id": 1, "usuario": "Roy" },
-    { "id": 2, "usuario": "Vitor"},
-    { "id": 3, "usuario": "Antonio" },
-    { "id": 4, "usuario": "Haile" }
+  "produto": [
+    { "id": 1, "titulo": "Pc gamer" },
+    { "id": 2, "titulo": "xbox series x"},
+    { "id": 3, "titulo": "notebook" },
+    { "id": 4, "titulo": "hd ssd" }
   ]
 }
